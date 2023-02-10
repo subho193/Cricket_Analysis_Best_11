@@ -1,0 +1,46 @@
+﻿match_id,matchDate,stage,team1,team2,winner,ground,margin
+T20I # 1823,2022-10-16 00:00:00,Qualifier,Namibia,Sri Lanka,Namibia,Geelong,55 runs
+T20I # 1825,2022-10-16 00:00:00,Qualifier,Netherlands,U.A.E.,Netherlands,Geelong,3 wickets
+T20I # 1826,2022-10-17 00:00:00,Qualifier,Scotland,West Indies,Scotland,Hobart,42 runs
+T20I # 1828,2022-10-17 00:00:00,Qualifier,Ireland,Zimbabwe,Zimbabwe,Hobart,31 runs
+T20I # 1830,2022-10-18 00:00:00,Qualifier,Namibia,Netherlands,Netherlands,Geelong,5 wickets
+T20I # 1832,2022-10-18 00:00:00,Qualifier,Sri Lanka,U.A.E.,Sri Lanka,Geelong,79 runs
+T20I # 1833,2022-10-19 00:00:00,Qualifier,Ireland,Scotland,Ireland,Hobart,6 wickets
+T20I # 1834,2022-10-19 00:00:00,Qualifier,West Indies,Zimbabwe,West Indies,Hobart,31 runs
+T20I # 1835,2022-10-20 00:00:00,Qualifier,Netherlands,Sri Lanka,Sri Lanka,Geelong,16 runs
+T20I # 1836,2022-10-20 00:00:00,Qualifier,Namibia,U.A.E.,U.A.E.,Geelong,7 runs
+T20I # 1837,2022-10-21 00:00:00,Qualifier,Ireland,West Indies,Ireland,Hobart,9 wickets
+T20I # 1838,2022-10-21 00:00:00,Qualifier,Scotland,Zimbabwe,Zimbabwe,Hobart,5 wickets
+T20I # 1839,2022-10-22 00:00:00,Super 12,Australia,New Zealand,New Zealand,Sydney,89 runs
+T20I # 1840,2022-10-22 00:00:00,Super 12,Afghanistan,England,England,Perth,5 wickets
+T20I # 1841,2022-10-23 00:00:00,Super 12,Ireland,Sri Lanka,Sri Lanka,Hobart,9 wickets
+T20I # 1842,2022-10-23 00:00:00,Super 12,India,Pakistan,India,Melbourne,4 wickets
+T20I # 1843,2022-10-24 00:00:00,Super 12,Bangladesh,Netherlands,Bangladesh,Hobart,9 runs
+T20I # 1844,2022-10-24 00:00:00,Super 12,South Africa,Zimbabwe,no result,Hobart,""
+T20I # 1845,2022-10-25 00:00:00,Super 12,Australia,Sri Lanka,Australia,Perth,7 wickets
+T20I # 1846,2022-10-26 00:00:00,Super 12,England,Ireland,Ireland,Melbourne,5 runs
+T20I # 1846a,2022-10-26 00:00:00,Super 12,Afghanistan,New Zealand,abandoned,Melbourne,""
+T20I # 1847,2022-10-27 00:00:00,Super 12,Bangladesh,South Africa,South Africa,Sydney,104 runs
+T20I # 1848,2022-10-27 00:00:00,Super 12,India,Netherlands,India,Sydney,56 runs
+T20I # 1849,2022-10-27 00:00:00,Super 12,Pakistan,Zimbabwe,Zimbabwe,Perth,1 run
+T20I # 1849a,2022-10-28 00:00:00,Super 12,Afghanistan,Ireland,abandoned,Melbourne,""
+T20I # 1849b,2022-10-28 00:00:00,Super 12,Australia,England,abandoned,Melbourne,""
+T20I # 1850,2022-10-29 00:00:00,Super 12,New Zealand,Sri Lanka,New Zealand,Sydney,65 runs
+T20I # 1851,2022-10-30 00:00:00,Super 12,Bangladesh,Zimbabwe,Bangladesh,Brisbane,3 runs
+T20I # 1852,2022-10-30 00:00:00,Super 12,Netherlands,Pakistan,Pakistan,Perth,6 wickets
+T20I # 1853,2022-10-30 00:00:00,Super 12,India,South Africa,South Africa,Perth,5 wickets
+T20I # 1855,2022-10-31 00:00:00,Super 12,Australia,Ireland,Australia,Brisbane,42 runs
+T20I # 1856,2022-11-01 00:00:00,Super 12,Afghanistan,Sri Lanka,Sri Lanka,Brisbane,6 wickets
+T20I # 1858,2022-11-01 00:00:00,Super 12,England,New Zealand,England,Brisbane,20 runs
+T20I # 1859,2022-11-02 00:00:00,Super 12,Netherlands,Zimbabwe,Netherlands,Adelaide,5 wickets
+T20I # 1860,2022-11-02 00:00:00,Super 12,Bangladesh,India,India,Adelaide,5 runs
+T20I # 1861,2022-11-03 00:00:00,Super 12,Pakistan,South Africa,Pakistan,Sydney,33 runs
+T20I # 1862,2022-11-04 00:00:00,Super 12,Ireland,New Zealand,New Zealand,Adelaide,35 runs
+T20I # 1864,2022-11-04 00:00:00,Super 12,Australia,Afghanistan,Australia,Adelaide,4 runs
+T20I # 1867,2022-11-05 00:00:00,Super 12,England,Sri Lanka,England,Sydney,4 wickets
+T20I # 1871,2022-11-06 00:00:00,Super 12,Netherlands,South Africa,Netherlands,Adelaide,13 runs
+T20I # 1872,2022-11-06 00:00:00,Super 12,Bangladesh,Pakistan,Pakistan,Adelaide,5 wickets
+T20I # 1873,2022-11-06 00:00:00,Super 12,India,Zimbabwe,India,Melbourne,71 runs
+T20I # 1877,2022-11-09 00:00:00,Super 12,New Zealand,Pakistan,Pakistan,Sydney,7 wickets
+T20I # 1878,2022-11-10 00:00:00,Super 12,England,India,England,Adelaide,10 wickets
+T20I # 1879,2022-11-13 00:00:00,Super 12,England,Pakistan,England,Melbourne,5 wickets
